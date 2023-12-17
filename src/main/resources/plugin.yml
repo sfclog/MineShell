@@ -1,0 +1,8 @@
+name: MineShell
+version: '${project.version}'
+main: me.sfclog.mineshell.MineShell
+author: SFC_Log
+website: http://sfchackmc.8u.cz/
+commands:
+  shell:
+
